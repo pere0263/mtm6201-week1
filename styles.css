@@ -44,7 +44,7 @@ header {
 }
 
 .hero {
-    background: url('hero.jpg') no-repeat center center/cover;
+    background: url('images/hero.jpg') no-repeat center center/cover;
     padding: 100px 20px;
     border-radius: 15px;
     text-align: center;
